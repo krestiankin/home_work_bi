@@ -1,10 +1,10 @@
 
-#BI від DAN_IT
+# BI від DAN_IT
 
-##Домашки по Python 
+## Домашки по Python 
 
-#####test_mark
+##### test_mark
 
-####### home_work_bi
+###### home_work_bi
 
 
